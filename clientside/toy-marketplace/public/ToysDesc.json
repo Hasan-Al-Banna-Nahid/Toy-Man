@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "Mr.Woody",
+    "photo": "../../public/Assests/Sheriff_Woody.png",
+    "price": "60$",
+    "rating": "8/10"
+  },
+  {
+    "id": "2",
+    "name": "Ms.Minnie",
+    "photo": "../../public/Assests/Minnie_Mouse_Duckipedia.png",
+    "price": "60$",
+    "rating": "8/10"
+  },
+  {
+    "id": "3",
+    "name": "Fairy",
+    "photo": "../../public/Assests/Gallery/1.jpg",
+    "price": "80$",
+    "rating": "9/10"
+  },
+  {
+    "id": "4",
+    "name": "Princess",
+    "photo": "../../public/Assests/Gallery/2.jpg",
+    "price": "90$",
+    "rating": "8/10"
+  },
+  {
+    "id": "5",
+    "name": "Mr.Potato Head",
+    "photo": "../../public/Assests/Mrs._Potato_Head_ts3.webp",
+    "price": "70$",
+    "rating": "8/10"
+  },
+  {
+    "id": "6",
+    "name": "Lotso",
+    "photo": "../../public/Assests/LotsOHugginBear.webp",
+    "price": "100$",
+    "rating": "9/10"
+  }
+]

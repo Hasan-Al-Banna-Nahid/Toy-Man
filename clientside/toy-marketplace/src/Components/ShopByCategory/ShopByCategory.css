@@ -1,0 +1,16 @@
+.shop {
+  margin: 32px auto;
+}
+.category {
+  margin-left: 120px;
+}
+@media screen and (max-width: 576px) {
+  .category {
+    margin-left: 50px;
+  }
+  .comic,
+  .neutral,
+  .girls {
+    flex-direction: column;
+  }
+}

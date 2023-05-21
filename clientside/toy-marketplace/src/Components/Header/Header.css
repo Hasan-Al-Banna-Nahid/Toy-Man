@@ -1,0 +1,18 @@
+.email-tooltip {
+  display: none;
+  position: absolute;
+  top: 20%;
+  left: 60%;
+  right: -360%;
+  transform: translateX(-50%);
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.user-container:hover .email-tooltip {
+  display: block;
+  color: #130f40;
+}
+.user-container {
+  position: relative;
+}
